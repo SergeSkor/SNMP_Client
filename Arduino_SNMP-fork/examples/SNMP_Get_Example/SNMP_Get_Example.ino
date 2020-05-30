@@ -6,8 +6,8 @@
 //************************************
 //* update this with your WiFi info  *
 //************************************
-const char* ssid = "Serge S. home (2.4GHz)";
-const char* password = "dell_latitude";
+const char* ssid = "Bla-Bla-Bla";
+const char* password = "La-la-la";
 //************************************
 
 unsigned int byteUp = 0; //value in octets (we are counting them as bytes)
